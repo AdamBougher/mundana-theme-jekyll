@@ -5032,6 +5032,10 @@ button.bg-secondary:hover,
 button.bg-secondary:focus {
   background-color: #5f1cc5 !important; }
 
+.bg-jumbotron-text{
+  background-color: gray;
+}  
+
 .bg-success {
   background-color: #03a87c !important; }
 
@@ -8460,3 +8464,5 @@ html {
     align-self: baseline !important; }
   .align-self-xl-stretch {
     align-self: stretch !important; } }
+
+/*-----------------------------------------*/
