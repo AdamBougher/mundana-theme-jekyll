@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="container">
+    <h3 class="font-weight-bold spanborder"><span>{{page.name}} - {{page.position}}</span></h3>
+    <div class="page-content">
+        <div class="MemberTop">
+            <img src="{{ page.image }}", width="256" height="256px">
+            <div class="text">{{page.bio}}</div>
+        </div>
+        {{ content }}
+
+        <h2>See My Post's</h2>
+        {% assign posts = site.posts | where:"author", page.name %}
+        {% for post in posts %}
+        {% include main-loop-card.html %}
+        {% endfor %}
+    </div>
+</div>
