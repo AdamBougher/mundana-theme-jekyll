@@ -9,7 +9,17 @@ layout: default
             <img src="{{ page.image }}", width="256" height="256px">
             <div class="text">{{page.bio}}</div>
         </div>
+
         {{ content }}
+
+        <h2>My Specialties include</h2>
+        <div class="mb-4">
+            <span class="taglist">
+                {%for category in page.categories%}
+              <a class="sscroll btn btn-light btn-sm font-weight-bold" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category | downcase }}</a>
+            {% endfor %}
+            </span>
+        </div>
 
         <h2>See My Post's</h2>
         {% assign posts = site.posts | where:"author", page.name %}
