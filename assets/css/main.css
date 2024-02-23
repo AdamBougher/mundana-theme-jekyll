@@ -8467,14 +8467,14 @@ html {
 
 /*-----------------------------------------*/
 .member{
-  object-fit: contain;
+  display: flex;
+  object-fit:fill;
   margin-right: 10px;
   margin-top: 10px;
   width: 250px;
   height: 250px;
   position: relative;
-  text-align: center;
-  color: black;
+  justify-content: center;
 }
 
 .member img{
@@ -8484,9 +8484,8 @@ html {
 
 .textCenter{
   position: absolute;
-  bottom: 8px;
-  
-  color: wheat;
+  bottom: 6px;
+  color: green;
 }
 
 .MemberTop
