@@ -23,3 +23,10 @@ adam:
   bio:            "Hay there! My Name is Adam Bougher and i work at the NIU office of innovation at 71North!"
   email:          a.bougher1999@gmail.com
   image:          /assets/images/adam.jpg
+
+Karinne:
+  name:           Karinne Bredberg
+  position:       Director
+  avatar:         Karinne.jpg
+  bio:            ""
+  email:          kbredberg@niu.edu
