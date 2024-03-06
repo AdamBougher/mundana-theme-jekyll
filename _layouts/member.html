@@ -9,7 +9,7 @@ layout: default
             <img src="{{ page.image }}", width="256" height="256px">
             <div class="text">{{page.bio}}</div>
         </div>
-
+        <br>
         {{ content }}
 
         <h2>My Specialties include</h2>
@@ -20,7 +20,7 @@ layout: default
             {% endfor %}
             </span>
         </div>
-
+        <br>
         <h2>See My Post's</h2>
         {% assign posts = site.posts | where:"author", page.name %}
         {% for post in posts %}
