@@ -1,5 +1,5 @@
 ---
-title: "People"
+title: "Meet the team!"
 layout: default
 permalink: "/people"
 ---
