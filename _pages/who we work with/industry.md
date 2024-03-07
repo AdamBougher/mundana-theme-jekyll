@@ -1,6 +1,6 @@
 ---
 title: "Industry"
-layout: page
+layout: MyPage
 permalink: "/who-we-work-with/industry"
 comments: false
 ---

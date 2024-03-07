@@ -1,6 +1,6 @@
 ---
 title: "Entrepreneurs"
-layout: page
+layout: MyPage
 permalink: "/who-we-work-with/entrepreneurs"
 comments: false
 ---

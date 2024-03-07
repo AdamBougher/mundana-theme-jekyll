@@ -1,6 +1,6 @@
 ---
 title: "Students"
-layout: page
+layout: MyPage
 permalink: "/who-we-work-with/students"
 comments: false
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Innovators"
-layout: page
+layout: MyPage
 permalink: "/who-we-work-with/innovators"
 comments: false
 ---
@@ -13,4 +13,4 @@ If you have an invention to disclose to the Office of Innovation <a href="https:
 ## Partner Connections  
 We can assist with facilitating collaborations and identify potential licensees for marketing of your inventions/technologies.<br>
 ## Agreements (Non-Disclosures, Material Transfer, Licenses) <br>
-We will review, facilitate, and, where necessary, negotiate agreements on behalf of the inventor. An NDA keeps your ideas a secret. An MTA maintains control of your materials. A license makes it possible for partners to develop your invention or technology. We can help with any and all of these things.<br>
+We will review, facilitate, and, where necessary, negotiate agreements on behalf of the inventor. An NDA keeps your ideas a secret. An MTA maintains control of your materials. A license makes it possible for partners to develop your invention or technology. We can help with any and all of these things.  
