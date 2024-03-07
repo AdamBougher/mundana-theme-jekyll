@@ -36,13 +36,12 @@ permalink: "/people"
     <div class="row gap-y listrecent listrecent listauthor">
         {% for member in site.members %}
 
+        
         <a href="{{ member.url }}">
+
             <div class="member">
                 <img src="{{member.image}}">
-                <div class="textCenter">{{ member.name }} - {{ member.position }}</div>
-                <p></p>
-                
-            
+                <p>{{ member.name }} : {{ member.position }}</p>
             </div>
         </a>
         
