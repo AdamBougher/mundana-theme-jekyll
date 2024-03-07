@@ -11,6 +11,52 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
     
 {% include slideshow.html %}
 
+<style>
+  .float-container {
+    text-align: center;
+    justify-content: center;
+  }
+
+  .float-container img{
+      width: 100px;
+  }
+  .float-child {
+    padding: 50px;  
+    display: inline-block;
+  }
+  .caption {
+      display: block;
+  }
+</style>
+
+<div class="float-container">
+  <a href="/who-we-work-with/innovators">
+      <figure class="float-child">
+          <img src="/assets/images/innovation.png" alt="innovation"><br>
+          <figcaption class="caption">Innovators</figcaption>
+      </figure>
+  </a>
+  <a href="/who-we-work-with/entrepreneurs">
+      <div class="float-child">
+          <img src="/assets/images/entrepreneur.png" alt="Entrepreneurs"><br>
+          <figcaption class="caption">Entrepreneurs</figcaption>
+      </div>
+  </a>
+  <a href="/who-we-work-with/students">
+      <div class="float-child">
+          <img src="/assets/images/student.png" alt="Entrepreneurs"><br>
+          <figcaption class="caption">Students</figcaption>
+      </div>
+  </a>
+  <a href="/who-we-work-with/industry">
+      <div class="float-child">
+          <img src="/assets/images/industry.png" alt="industry"><br>
+          <figcaption class="caption">Industry</figcaption>
+      </div>
+  </a>
+</div><br>
+
+
 <h1>Latest posts</h1><br>
 <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
 {%- assign first_post = site.posts[0] -%}
@@ -78,3 +124,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
 
 
 </div>
+
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<div>Icons made by <a href="https://www.flaticon.com/authors/iconbaandar" title="IconBaandar">IconBaandar</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<div>Icons made by <a href="https://www.flaticon.com/authors/kornkun" title="kornkun">kornkun</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
