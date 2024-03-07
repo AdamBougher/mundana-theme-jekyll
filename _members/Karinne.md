@@ -2,7 +2,9 @@
 layout:     member
 name:       Karinne Bredberg
 position:   Director
-email:      kbredberg@niu.edu    
+email:      kbredberg@niu.edu
+office:     LH301
+phone:      815-753-1125    
 image:      /assets/images/Karinne.jpg
 bio:        Karinne is a double NIU alumna having received her bachelor’s in biology and her master’s in public administration. As the director of innovation, Karinne promotes strategic university-wide innovation relationships and entrepreneurship for students, staff, and faculty and the commercialization of their efforts.
 categories: [ biology,  public administration, innovation]
