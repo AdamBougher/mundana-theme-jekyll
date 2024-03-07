@@ -10,14 +10,16 @@ comments: false
         width: 100px;
     }
     .float-container {
-        border: 3px solid #fff;
-        padding: 20px;
+        margin-bottom: 20px;
+        float:left;
+        margin-right: 75px;
     }
 
     .float-child {
         vertical-align: top;
-        display: inline-block;
         text-align: center;
+        display: inline-block;
+        
         width: 120px;
     }
     .caption {
@@ -38,6 +40,7 @@ comments: false
             <figcaption class="caption">Entrepreneurs</figcaption>
         </div>
     </a>
+    <br>
     <a href="/who-we-work-with/students">
         <div class="float-child">
             <img src="/assets/images/student.png" alt="Entrepreneurs"><br>
@@ -51,7 +54,7 @@ comments: false
         </div>
     </a>
 </div>
-<br>
+
 
 ## Our Resources <br>
 
