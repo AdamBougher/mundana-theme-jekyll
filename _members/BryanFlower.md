@@ -2,7 +2,8 @@
 layout:     member
 name:       Bryan Flower
 position:   Assistant Director for Food Systems Innovation
-email:      bflower@niu.edu   
+email:      bflower@niu.edu
+phone:      815-753-6384   
 image:      /assets/images/Bryan.jpg
 bio:        Born in England and raised in South Africa, Chef Bryan started working in the hospitality industry in the mid-nineties. Over the past 30 years, his talents have taken him from South Africa to Europe, the Middle East, and finally to the United States.
 categories: [ hospitality, cooking, education ]

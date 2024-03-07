@@ -2,7 +2,8 @@
 layout:     member
 name:       Mark Hankins
 position:   Assistant Director for Technology Transfer
-email:      mhankins1@niu.edu  
+email:      mhankins1@niu.edu
+phone:      815-753-9281  
 image:      /assets/images/Mark.jpg
 bio:        Mark has over 25 years of experience in the health care industry, including positions with start-up companies, large pharmaceutical companies, emerging pharmaceutical companies, and government/non-profit organizations. Mark currently serves as the Assistant Director for Technology Transfer at Northern Illinois University.
 categories: [ health care,  Government/non-profit]
