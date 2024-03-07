@@ -16,3 +16,12 @@ permalink: "/contact.html"
 <textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>    
 <input class="btn btn-success" type="submit" value="Send">
 </form>
+
+OR drop us a line!  
+<a href="mailto:Innovation@niu.edu">General email</a>
+
+<a href="mailto:kbredberg@niu.edu">Karinne Bredberg</a>
+  
+<a href="mailto:bflower@niu.edu">Bryan Flower</a>
+  
+<a href="mhankins1@niu.edu">Mark Hankins</a>
