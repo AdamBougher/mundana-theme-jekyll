@@ -20,7 +20,7 @@ partners with the right NIU players. To explore partnership opportunities,
 The Office of Innovation can facilitate industry introductions to the right collaborators across our ecosystem. 
   
 ### Startup Incubation  
-In our 71 North Partnership Studio we provide early-stage support to NIU, alumni, and community startups. From concept ideation to launch, we help you get your new venture off the ground. If you have a startup idea or want to learn more about our incubation support services.  
+In our <a href="/71-North">71 North Partnership Studio</a> we provide early-stage support to NIU, alumni, and community startups. From concept ideation to launch, we help you get your new venture off the ground. If you have a startup idea or want to learn more about our incubation support services.  
   
 ### License Our Innovations  
 We offer multiple licensing opportunities. For inquiries, contact <a href="/members/MarkHankens/">Mark Hankins</a>.  
@@ -39,4 +39,4 @@ Locate with us and be part of our community.
   
 NIU welcomes strategic partnership opportunities with industry and government to colocate within our ecosystem. We offer flexible leasing opportunities for office and lab spaces on the NIU campus for businesses to connect with university students, faculty, and departments.  
   
-In our 71 North Partnership Studio, we offer co-working space for startups and industry partners to experience a unique and vibrant collaboration environment in the heart of campus with access to special innovation programs and services.
+In our <a href="/71-North">71 North Partnership Studio</a>, we offer co-working space for startups and industry partners to experience a unique and vibrant collaboration environment in the heart of campus with access to special innovation programs and services.
