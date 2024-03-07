@@ -13,11 +13,11 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
 
 <h1>Latest posts</h1><br>
 <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
-{% assign first_post = site.posts[0] %}
+{%- assign first_post = site.posts[0] -%}
 {%- assign second_post = site.posts[1] -%} 
 {%- assign third_post = site.posts[2] -%}  
 {%- assign fourth_post = site.posts[3] -%}
-{% include first4.html%}
+{% include first4.html %}
 
 {% endif %} <!--endif page url is / -->
     
