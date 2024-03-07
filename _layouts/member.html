@@ -8,6 +8,10 @@ layout: default
         <div class="MemberTop">
             <img src="{{ page.image }}", width="256" height="256px">
             <div class="text">{{page.bio}}</div>
+            <div><h2>Contact</h2>
+                <a href="mailto:{{page.email}}">Email: {{page.email}}</a>
+                <br>
+                <a href="tel:{{page.phone}}">Phone: {{page.phone}}</a></div>
         </div>
         <br>
         {{ content }}
@@ -21,9 +25,6 @@ layout: default
             </span>
         </div>
         <br>
-        <h2>Contact</h2>
-        <a href="mailto:{{page.email}}">Email: {{page.email}}</a>
-        <br>
-        <a href="tel:{{page.phone}}">Phone: {{page.phone}}</a>
+        
     </div>
 </div>
