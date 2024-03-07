@@ -1,10 +1,10 @@
 ---
 title: "Students"
 layout: page
-permalink: "/students.html"
+permalink: "/who-we-work-with/students"
 comments: false
 ---
-# Innovation Club <br>
+# <a href="/NIU-Innovation-Club">Innovation Club</a> <br>
 The Innovation Club is an inclusive student-led-organization welcoming creative thinkers from all corners of campus who are interested in making the world a better place.<br>
 
 # Entrepreneurial Assistance <br>
