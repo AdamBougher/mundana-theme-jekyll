@@ -58,7 +58,7 @@ comments: false
 
 ## Our Resources <br>
 
-### 71 North  
+### <a href="/71-North">71 North</a>  
 71 North is a collaborative studio space offering innovation-focused programs and events, partnership development and matchmaking, intellectual property protection strategies and services, commercialization support, and incubation services.  
   
 ### <a href="https://www.niu.edu/divresearch/service-centers/molecular-analysis-core/index.shtml"> MAC Lab </a>  
