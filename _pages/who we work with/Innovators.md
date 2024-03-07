@@ -1,7 +1,7 @@
 ---
 title: "Innovators"
 layout: page
-permalink: "/innovators.html"
+permalink: "/who-we-work-with/innovators"
 comments: false
 ---
 ## Concept Ideation

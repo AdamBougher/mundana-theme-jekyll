@@ -1,7 +1,7 @@
 ---
 title: "How can We help You?"
 layout: page
-permalink: "/who-we-work-with.html"
+permalink: "/who-we-work-with/"
 comments: false
 ---
 
@@ -26,25 +26,25 @@ comments: false
 </style>
 
 <div class="float-container">
-    <a href="/innovators.html">
+    <a href="/who-we-work-with/innovators">
         <figure class="float-child">
             <img src="/assets/images/innovation.png" alt="innovation"><br>
             <figcaption class="caption">Innovators</figcaption>
         </figure>
     </a>
-    <a href="/entrepreneurs.html">
+    <a href="/who-we-work-with/entrepreneurs">
         <div class="float-child">
             <img src="/assets/images/entrepreneur.png" alt="Entrepreneurs"><br>
             <figcaption class="caption">Entrepreneurs</figcaption>
         </div>
     </a>
-    <a href="/students.html">
+    <a href="/who-we-work-with/students">
         <div class="float-child">
             <img src="/assets/images/student.png" alt="Entrepreneurs"><br>
             <figcaption class="caption">Students</figcaption>
         </div>
     </a>
-    <a href="industry.html">
+    <a href="/who-we-work-with/industry">
         <div class="float-child">
             <img src="/assets/images/industry.png" alt="industry"><br>
             <figcaption class="caption">Industry</figcaption>

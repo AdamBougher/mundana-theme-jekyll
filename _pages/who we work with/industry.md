@@ -1,7 +1,7 @@
 ---
 title: "Industry"
 layout: page
-permalink: "/industry.html"
+permalink: "/who-we-work-with/industry"
 comments: false
 ---
 

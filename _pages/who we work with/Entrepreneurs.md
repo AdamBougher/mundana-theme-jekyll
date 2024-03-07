@@ -1,7 +1,7 @@
 ---
 title: "Entrepreneurs"
 layout: page
-permalink: "/entrepreneurs.html"
+permalink: "/who-we-work-with/entrepreneurs"
 comments: false
 ---
 
