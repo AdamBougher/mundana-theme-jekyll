@@ -21,10 +21,9 @@ layout: default
             </span>
         </div>
         <br>
-        <h2>See My Post's</h2>
-        {% assign posts = site.posts | where:"author", page.name %}
-        {% for post in posts %}
-        {% include main-loop-card.html %}
-        {% endfor %}
+        <h2>Contact</h2>
+        <a href="mailto:{{page.email}}">Email: {{page.email}}</a>
+        <br>
+        <a href="tel:{{page.phone}}">Phone: {{page.phone}}</a>
     </div>
 </div>
